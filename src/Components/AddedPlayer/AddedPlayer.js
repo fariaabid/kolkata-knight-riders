@@ -5,7 +5,7 @@ const AddedPlayer = (props) => {
     const playerSelected = props.playerSelected;
     const { name, img, role,country,salary } = playerSelected;
     return (
-        <div className='my-2 p-2 shadow text-center cart-item bg-primary text-white rounded'>
+        <div className='my-2 p-2 shadow text-center cart-item bg-success text-white rounded'>
             <img className='img-cart' src={img} alt="" />
             <div className='py-2'>
                 <p><b>Name: </b>{name}</p>

@@ -1,14 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+import Persons from './Components/Persons/Persons';
 
 function App() {
+
   return (
-    <div className="App">
-      <h1 className="m-5">Bootstrap is added</h1>
-      <button className="btn btn-danger"> <FontAwesomeIcon icon={faCoffee} /> add me</button>
+    <div className="container">
+      <h2 className='text-center text-primary py-3'> &rarr; Workplace &larr;</h2>
+      <div className="d-flex flex-wrap">
+        <Persons></Persons>
+      </div>
     </div>
   );
 }

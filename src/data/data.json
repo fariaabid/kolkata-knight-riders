@@ -1,185 +1,185 @@
 [{
-    "id": 1,
-    "name": "Mashrafe Mortaza",
-    "role": "Bowler",
-    "country": "Bangladesh",
-    "salary": "5",
-    "img": "https://ibb.co/23qTyw5"
-  }, 
-  {
-    "id": 2,
-    "name": "Mustafizur Rahman",
-    "role": "Bowler",
-    "country": "Bangladesh",
-    "salary": "2",
-    "img": "https://ibb.co/71wP0xh"
-  }, 
-  {
-    "id": 3,
-    "name": "Shakib Al Hasan",
-    "role": "All-Rounder",
-    "country": "Bangladesh",
-    "salary": "4",
-    "img": "https://ibb.co/kJvWvhL"
-  }, 
-  {
-    "id": 4,
-    "name": "Tamim Iqbal",
-    "role": "Batsman",
-    "country": "Bangladesh",
-    "salary": "3",
-    "img": "https://ibb.co/ZgTgTr5"
-  }, 
-  {
-    "id": 5,
-    "name": "Mushfiqur Rahim",
-    "role": "Wicket Keeper",
-    "country": "Bangladesh",
-    "salary": "3",
-    "img": "https://ibb.co/v1KdK85"
-  }, 
-  {
-    "id": 6,
-    "name": "Virat Kohli",
-    "role": "Batsman",
-    "country": "India",
-    "salary": "17",
-    "img": "https://ibb.co/MNS3MB6"
-  }, 
-  {
-    "id": 7,
-    "name": "AB DE Villiers",
-    "role": "Wicket Keeper",
-    "country": "South Africa",
-    "salary": "11",
-    "img": "https://ibb.co/d65cF20"
-  }, 
-  {
-    "id": 8,
-    "name": "Glenn Maxwell",
-    "role": "All Rounder",
-    "country": "Australia",
-    "salary": "14.25",
-    "img": "https://ibb.co/0cM15L0"
-  }, 
-  {
-    "id": 9,
-    "name": "Adam Zampa",
-    "role": "Bowler",
-    "country": "Australia",
-    "salary": "1.5",
-    "img": "https://ibb.co/wrcwhQB"
-  }, 
-  {
-    "id": 10,
-    "name": "Rohit Sharma",
-    "role": "Batsman",
-    "country": "India",
-    "salary": "15",
-    "img": "https://ibb.co/zf64v19"
-  }, 
-  {
-    "id": 11,
-    "name": "Quinton De Kock",
-    "role": "Wicket Keeper",
-    "country": "South Africa",
-    "salary": "2.5",
-    "img": "https://ibb.co/5j2GDVy"
-  }, 
-  {
-    "id": 12,
-    "name": "Hardik Pandya",
-    "role": "Bowler",
-    "country": "India",
-    "salary": "11",
-    "img": "https://ibb.co/dW0qZ9j"
-  }, 
-  {
-    "id": 13,
-    "name": "Trent Boult",
-    "role": "Bowler",
-    "country": "New Zealand",
-    "salary": "3.2",
-    "img": "https://ibb.co/5xCKmdQ"
-  }, 
-  {
-    "id": 14,
-    "name": "Jasprit Bumrah",
-    "role": "Bowler",
-    "country": "India",
-    "salary": "7",
-    "img": "https://ibb.co/dW0qZ9j"
-  }, 
-  {
-    "id": 15,
-    "name": "MS Dhoni",
-    "role": "Wicket Keeper",
-    "country": "India",
-    "salary": "15",
-    "img": "https://ibb.co/64ZXQV5"
-  }, 
-  {
-    "id": 16,
-    "name": "Liton Das",
-    "role": "Batsman",
-    "country": "Bangladesh",
-    "salary": "3",
-    "img": "https://ibb.co/4dSBTwp"
-  }, 
-  {
-    "id": 17,
-    "name": "Soumya Sarker",
-    "role": "Batsman",
-    "country": "Bangladesh",
-    "salary": "5",
-    "img": "https://ibb.co/5v5k870"
-  }, 
-  {
-    "id": 18,
-    "name": "Steven Smith",
-    "role": "Batsman",
-    "country": "Australia",
-    "salary": "9",
-    "img": "https://ibb.co/GJG8bxP"
-  }, 
-  {
-    "id": 19,
-    "name": "Chris Gayle",
-    "role": "Batsman",
-    "country": "West Indies",
-    "salary": "9",
-    "img": "https://ibb.co/0f7nnY0"
-  }, 
-  {
-    "id": 20,
-    "name": "Andre Russel",
-    "role": "All Rounder",
-    "country": "West Indies",
-    "salary": "15",
-    "img": "https://ibb.co/gtBrvfp"
-  }, 
-  {
-    "id": 21,
-    "name": "Lasith Malinga",
-    "role": "Bowler",
-    "country": "Sri Lanka",
-    "salary": "8",
-    "img": "https://ibb.co/f4hyBdc"
-  }, 
-  {
-    "id": 22,
-    "name": "Pat Cummins",
-    "role": "Bowler",
-    "country": "Australia",
-    "salary": "15",
-    "img": "https://ibb.co/v1swhq1"
-  },
-  {
-    "id": 23,
-    "name": "Sunil Narine",
-    "role": "All Rounder",
-    "country": "West indies",
-    "salary": "7",
-    "img": "https://ibb.co/BBYsFDB"
-  }
+  "id": 1,
+  "name": "Mashrafe Mortaza",
+  "role": "Bowler",
+  "country": "Bangladesh",
+  "salary": "5",
+  "img": "https://ibb.co/23qTyw5"
+}, 
+{
+  "id": 2,
+  "name": "Mustafizur Rahman",
+  "role": "Bowler",
+  "country": "Bangladesh",
+  "salary": "2",
+  "img": "https://ibb.co/71wP0xh"
+}, 
+{
+  "id": 3,
+  "name": "Shakib Al Hasan",
+  "role": "All-Rounder",
+  "country": "Bangladesh",
+  "salary": "4",
+  "img": "https://ibb.co/kJvWvhL"
+}, 
+{
+  "id": 4,
+  "name": "Tamim Iqbal",
+  "role": "Batsman",
+  "country": "Bangladesh",
+  "salary": "3",
+  "img": "https://ibb.co/ZgTgTr5"
+}, 
+{
+  "id": 5,
+  "name": "Mushfiqur Rahim",
+  "role": "Wicket Keeper",
+  "country": "Bangladesh",
+  "salary": "3",
+  "img": "https://ibb.co/v1KdK85"
+}, 
+{
+  "id": 6,
+  "name": "Virat Kohli",
+  "role": "Batsman",
+  "country": "India",
+  "salary": "17",
+  "img": "https://ibb.co/MNS3MB6"
+}, 
+{
+  "id": 7,
+  "name": "AB DE Villiers",
+  "role": "Wicket Keeper",
+  "country": "South Africa",
+  "salary": "11",
+  "img": "https://ibb.co/d65cF20"
+}, 
+{
+  "id": 8,
+  "name": "Glenn Maxwell",
+  "role": "All Rounder",
+  "country": "Australia",
+  "salary": "14.25",
+  "img": "https://ibb.co/0cM15L0"
+}, 
+{
+  "id": 9,
+  "name": "Adam Zampa",
+  "role": "Bowler",
+  "country": "Australia",
+  "salary": "1.5",
+  "img": "https://ibb.co/wrcwhQB"
+}, 
+{
+  "id": 10,
+  "name": "Rohit Sharma",
+  "role": "Batsman",
+  "country": "India",
+  "salary": "15",
+  "img": "https://ibb.co/zf64v19"
+}, 
+{
+  "id": 11,
+  "name": "Quinton De Kock",
+  "role": "Wicket Keeper",
+  "country": "South Africa",
+  "salary": "2.5",
+  "img": "https://ibb.co/5j2GDVy"
+}, 
+{
+  "id": 12,
+  "name": "Hardik Pandya",
+  "role": "Bowler",
+  "country": "India",
+  "salary": "11",
+  "img": "https://ibb.co/dW0qZ9j"
+}, 
+{
+  "id": 13,
+  "name": "Trent Boult",
+  "role": "Bowler",
+  "country": "New Zealand",
+  "salary": "3.2",
+  "img": "https://ibb.co/5xCKmdQ"
+}, 
+{
+  "id": 14,
+  "name": "Jasprit Bumrah",
+  "role": "Bowler",
+  "country": "India",
+  "salary": "7",
+  "img": "https://ibb.co/dW0qZ9j"
+}, 
+{
+  "id": 15,
+  "name": "MS Dhoni",
+  "role": "Wicket Keeper",
+  "country": "India",
+  "salary": "15",
+  "img": "https://ibb.co/64ZXQV5"
+}, 
+{
+  "id": 16,
+  "name": "Liton Das",
+  "role": "Batsman",
+  "country": "Bangladesh",
+  "salary": "3",
+  "img": "https://ibb.co/4dSBTwp"
+}, 
+{
+  "id": 17,
+  "name": "Soumya Sarker",
+  "role": "Batsman",
+  "country": "Bangladesh",
+  "salary": "5",
+  "img": "https://ibb.co/5v5k870"
+}, 
+{
+  "id": 18,
+  "name": "Steven Smith",
+  "role": "Batsman",
+  "country": "Australia",
+  "salary": "9",
+  "img": "https://ibb.co/GJG8bxP"
+}, 
+{
+  "id": 19,
+  "name": "Chris Gayle",
+  "role": "Batsman",
+  "country": "West Indies",
+  "salary": "9",
+  "img": "https://ibb.co/0f7nnY0"
+}, 
+{
+  "id": 20,
+  "name": "Andre Russel",
+  "role": "All Rounder",
+  "country": "West Indies",
+  "salary": "15",
+  "img": "https://ibb.co/gtBrvfp"
+}, 
+{
+  "id": 21,
+  "name": "Lasith Malinga",
+  "role": "Bowler",
+  "country": "Sri Lanka",
+  "salary": "8",
+  "img": "https://ibb.co/f4hyBdc"
+}, 
+{
+  "id": 22,
+  "name": "Pat Cummins",
+  "role": "Bowler",
+  "country": "Australia",
+  "salary": "15",
+  "img": "https://ibb.co/v1swhq1"
+},
+{
+  "id": 23,
+  "name": "Sunil Narine",
+  "role": "All Rounder",
+  "country": "West indies",
+  "salary": "7",
+  "img": "https://ibb.co/BBYsFDB"
+}
 ]

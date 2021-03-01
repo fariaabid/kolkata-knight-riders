@@ -1,0 +1,8 @@
+.cart-item {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .img-cart {
+    width: 150px;
+    border-radius: 150px;
+  }

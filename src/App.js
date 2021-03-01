@@ -1,14 +1,16 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Persons from './Components/Persons/Persons';
+import Players from './Components/Players/Players';
+
 
 function App() {
 
   return (
     <div className="container">
-      <h2 className='text-center text-primary py-3'> &rarr; Workplace &larr;</h2>
+      <h2 className='text-center text-primary '> Kolkata Knight Riders</h2>
+       <h3 className='text-center text-dark py-3'>Your team,Your Choice...Pick your dream 11 now...!</h3>
       <div className="d-flex flex-wrap">
-        <Persons></Persons>
+        <Players></Players>
       </div>
     </div>
   );
